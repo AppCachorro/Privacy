@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Política de Privacidade - Qual cachorro me pareço</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 20px;
-    }
-  </style>
+
 </head>
 <body>
   <h1>Política de Privacidade - Qual cachorro me pareço</h1>
